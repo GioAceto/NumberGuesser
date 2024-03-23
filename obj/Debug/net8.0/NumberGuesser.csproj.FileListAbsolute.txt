@@ -1,0 +1,14 @@
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/bin/Debug/net8.0/NumberGuesser
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/bin/Debug/net8.0/NumberGuesser.deps.json
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/bin/Debug/net8.0/NumberGuesser.runtimeconfig.json
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/bin/Debug/net8.0/NumberGuesser.dll
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/bin/Debug/net8.0/NumberGuesser.pdb
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfo.cs
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.dll
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/refint/NumberGuesser.dll
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.pdb
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.genruntimeconfig.cache
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/ref/NumberGuesser.dll
