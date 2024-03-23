@@ -6,38 +6,45 @@ namespace NumberGuesser.Game
         private int _randomNumber;
         private int _guessCount;
         private readonly int _maxNumber;
-    
+
         public Game(int maxNumber)
         {
-            this._maxNumber = maxNumber;
+            _maxNumber = maxNumber;
         }
-    
+
         public void Start()
         {
-            GenerateRandomNumber();
-            PlayGame();
+            do
+            {
+                GenerateRandomNumber();
+                PlayGame();
+
+                Console.Write("Play again? (Y/N): ");
+            } while (Console.ReadLine().Trim().ToUpper() == "Y");
         }
-    
+
         private void GenerateRandomNumber()
         {
             _randomNumber = _random.Next(1, _maxNumber + 1);
         }
-    
+
         private void PlayGame()
         {
+            _guessCount = 0;
+
             while (true)
             {
                 Console.Write($"Make a guess (between 1 and {_maxNumber}): ");
                 string input = Console.ReadLine();
-                
+
                 if (!int.TryParse(input, out int guess) || guess < 1 || guess > _maxNumber)
                 {
                     Console.WriteLine($"Invalid input. Please enter a number between 1 and {_maxNumber}.");
                     continue;
                 }
-    
+
                 _guessCount++;
-    
+
                 if (guess == _randomNumber)
                 {
                     Console.WriteLine($"Congratulations! You guessed the correct number ({_randomNumber})!");

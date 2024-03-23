@@ -12,3 +12,4 @@
 /Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.pdb
 /Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.genruntimeconfig.cache
 /Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/ref/NumberGuesser.dll
+/Users/giovanniaceto/RiderProjects/TodoList/NumberGuesser/obj/Debug/net8.0/NumberGuesser.sourcelink.json
